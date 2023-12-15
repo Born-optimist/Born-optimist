@@ -1,6 +1,4 @@
-- 👋 Hi, I’m @Born-optimist
--  I’m currently learning web developing ...
-- 
+- 👋 Hi, I’m @Born-optimist. I’m currently learning web developing ...
 
 <!---
 Born-optimist/Born-optimist is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
